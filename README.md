@@ -8,7 +8,6 @@ Projeto feito durante o curso de responsividade da Alura.
 | :label: Tecnologias | HTML, CSS
 | :rocket: URL         | [https://alura-book.vercel.app](https://alura-book-drab.vercel.app/)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://user-images.githubusercontent.com/21301483/229895883-e429f63b-eb70-40d6-8481-e6bb7dfdc9c6.png#vitrinedev)
 
 ## Detalhes do projeto
