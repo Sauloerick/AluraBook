@@ -1,3 +1,3 @@
 # AluraBook
 
-Projeto do Alura Book (parte do curso HTML e CSS da Alura)
+Projeto feito durante o curso de responsividade da Alura.
