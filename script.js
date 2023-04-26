@@ -1,2 +1,11 @@
-console.log("Mandando oi pro amigo!");
+ var consultaCEP = fetch('https://viacep.com.br/ws/0100100/json/')
+ .then(resposta => resposta.json())
+ .then(r => {
+    if (r.erro) {
+            throw Error('Esse CEP não existe!')
+        } else
+            console.log(r)
+    })
+ .catch(erro => {console.log(erro)});
 
+ console.log(consultaCEP)
